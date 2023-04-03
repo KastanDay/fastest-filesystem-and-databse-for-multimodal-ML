@@ -1,0 +1,3 @@
+deeplake
+ray[default]
+termcolor
